@@ -16,7 +16,7 @@
             @User.Identity.GetUserName()
              <span class="caret"></span></a>
             <ul class="dropdown-menu">
-                <li><a href="#">Gig's Iam Following</a></li>
+                <li><a href="@Url.Action("Attending", "Gig")">Gig's Iam Following</a></li>
                 <li><a href="#">Artists I'm Following</a></li>
                 <li>@Html.ActionLink("Manage", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })</li>
                 <li role="separator" class="divider"></li>

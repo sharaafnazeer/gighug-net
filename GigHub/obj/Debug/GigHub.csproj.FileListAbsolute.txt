@@ -87,3 +87,11 @@ D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigGen
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigGenreTable2.resources
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenreTable.resources
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.ChangeForiegnKey.resources
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddedAttendanceModal.resources
+D:\projects\personal\.net\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+D:\projects\personal\.net\GigHub\GigHub\bin\System.Web.Http.dll
+D:\projects\personal\.net\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+D:\projects\personal\.net\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+D:\projects\personal\.net\GigHub\GigHub\bin\System.Web.Http.xml
+D:\projects\personal\.net\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddedFollwingsModal.resources
