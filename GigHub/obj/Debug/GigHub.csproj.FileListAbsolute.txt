@@ -80,3 +80,5 @@ D:\projects\personal\.net\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAcc
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.dll
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.pdb
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModal.resources
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
