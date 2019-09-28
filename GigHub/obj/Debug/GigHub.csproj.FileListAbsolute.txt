@@ -82,3 +82,8 @@ D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.dll
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.pdb
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModal.resources
 D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigGenreTable.resources
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigGenreTable1.resources
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigGenreTable2.resources
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenreTable.resources
+D:\projects\personal\.net\GigHub\GigHub\obj\Debug\GigHub.Migrations.ChangeForiegnKey.resources
